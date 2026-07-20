@@ -142,6 +142,12 @@ Through this project, I gained practical experience in:
 
 Computer Science Engineering Student
 
+## Suggestions
+ 
+ If you have any suggestions, feedback, or ideas to improve this project, feel free to reach out via email. Your feedback is greatly appreciated.
+ Email ID: darunsuresh07@gmail.com
+ 
+
 Interested in:
 - Artificial Intelligence
 - Machine Learning
