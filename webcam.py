@@ -9,7 +9,7 @@ from email.message import EmailMessage
 
 
 SENDER_EMAIL = "darunsureshpdy@gmail.com"
-APP_PASSWORD = "jcwkpvdvzbrjsjyk"
+APP_PASSWORD = "**********************"
 RECEIVER_EMAIL = "darunsuresh07@gmail.com"
 
 
@@ -119,7 +119,7 @@ while True:
     cv2.imshow("Face Mask Detection", annotated_frame)
 
     # Press q to quit
-    if cv2.waitKey(1) & 0xFF == ord("q"):
+    if cv2.waitKey(1) & 0xFF == ord("d"):
         break
 
 cap.release()
